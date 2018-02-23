@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesteSearchView</string>
+    <string name="search_title">search</string>
+    <string name="search_hint">search hint</string>
+</resources>
